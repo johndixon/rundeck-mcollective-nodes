@@ -9,7 +9,7 @@ The interface currently implemented is:
 
     mco rpc rpcutil -j inventory
 
-Optionally if mongodb is supported, the following may be used which shall significantly increase performance when generating the reosurce model:
+Optionally if mongodb is supported, the following may be used which shall significantly increase performance when generating the resource model:
 
     mco rpc --dm mongo rpcutil -j inventory
 
